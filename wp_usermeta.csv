@@ -1,0 +1,13 @@
+"1","1","first_name",
+"2","1","last_name",
+"3","1","nickname","admin"
+"4","1","description",
+"5","1","rich_editing","true"
+"6","1","comment_shortcuts","false"
+"7","1","admin_color","fresh"
+"8","1","use_ssl","0"
+"9","1","show_admin_bar_front","true"
+"10","1","wp_capabilities","a:1:{s:13:""administrator"";b:1;}"
+"11","1","wp_user_level","10"
+"12","1","dismissed_wp_pointers","wp350_media,wp360_revisions,wp360_locks,wp390_widgets"
+"13","1","show_welcome_panel","1"
